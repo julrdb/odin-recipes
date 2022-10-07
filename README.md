@@ -9,8 +9,8 @@ TOP is asking to create a **recipe list** purely with HTML basic syntax, the one
 <details>
 <summary>Here are requirements:</summary>
 
-- [ ] Step one
-- [ ] Step two
+- [x] Iteration 1: Add `h1` tag "Odin Recipes" to the body
+- [ ] Iteration 2:
 - [ ] Step three
 - [ ] Step four
 </details>
