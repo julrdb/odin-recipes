@@ -10,10 +10,10 @@ Link to Recipe Project [here](https://www.theodinproject.com/lessons/foundations
 <details>
 <summary>Here are requirements:</summary>
 
-- [x] Iteration 1: Initial Structure
-- [x] Iteration 2: Recipe Page
-- [x] Iteration 3: Recipe Page Content
-- [ ] Iteration 4: Add More Recipes
+- [x] Iteration 1: Initial Structure.
+- [x] Iteration 2: Recipe Page.
+- [x] Iteration 3: Recipe Page Content.
+- [ ] Iteration 4: Add More Recipes.
 </details>
 
 
