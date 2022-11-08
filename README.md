@@ -13,7 +13,8 @@ Link to Recipe Project [here](https://www.theodinproject.com/lessons/foundations
 - [x] Iteration 1: Initial Structure.
 - [x] Iteration 2: Recipe Page.
 - [x] Iteration 3: Recipe Page Content.
-- [ ] Iteration 4: Add More Recipes (almost complete).
+- [x] Iteration 4: Add More Recipes (almost complete).
+- [ ] Iteration 5: Recipes completed; ready to publish.
 </details>
 
 
