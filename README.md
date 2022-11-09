@@ -5,7 +5,7 @@
 
 TOP is asking to create a **recipe list** purely with HTML basic syntax, the ones I've learned from the [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations).
 
-Link to Recipe Project [here](https://www.theodinproject.com/lessons/foundations-recipes).
+Link to Recipe Project instructions [here](https://www.theodinproject.com/lessons/foundations-recipes).
 
 <details>
 <summary>Here are requirements:</summary>
@@ -14,7 +14,7 @@ Link to Recipe Project [here](https://www.theodinproject.com/lessons/foundations
 - [x] Iteration 2: Recipe Page.
 - [x] Iteration 3: Recipe Page Content.
 - [x] Iteration 4: Add More Recipes (almost complete).
-- [ ] Iteration 5: Recipes completed; ready to publish.
+- [x] Iteration 5: Recipes completed; ready to publish.
 </details>
 
 
